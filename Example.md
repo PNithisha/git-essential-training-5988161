@@ -1,5 +1,6 @@
 this is content
   i am fine
+   i am ok
 
  added new line 
  what happened
